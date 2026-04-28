@@ -12,6 +12,7 @@ To design a band pass filter that allows signals within a specific frequency ran
 - Microstrip Technology
 
 ## 📊 Results
+
 ### S11 (Return Loss)
 Shows how much signal is reflected back.
 
@@ -20,6 +21,20 @@ Shows how much signal is transmitted through the filter.
 
 ### VSWR
 Indicates impedance matching of the system.
+
+## 📷 Results Visualization
+
+### S11 Graph
+![S11](S11.png)
+
+### S21 Graph
+![S21](S21.png)
+
+### Prototype - Frontend
+![Frontend](Prototype Frontend.jpeg)
+
+### Prototype - Backend
+![Backend](Prototype Backend.jpeg)
 
 ## 🧪 Fabrication
 The filter is fabricated on a dielectric substrate and tested using VNA.
